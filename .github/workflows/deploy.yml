@@ -9,9 +9,9 @@ env:
 jobs:
   test:
     env:
-      MONGODB_CLUSTER_ADDRESS: cluster0.ruv2guy.mongodb.net
-      MONGODB_USERNAME: ccollinsibe
-      MONGODB_PASSWORD: ccollinsibe
+      MONGODB_CLUSTER_ADDRESS: cluster0.ldmnxb4.mongodb
+      MONGODB_USERNAME: abc
+      MONGODB_PASSWORD: abc
       PORT: 8081
     environment: testing
     runs-on: ubuntu-latest
