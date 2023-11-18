@@ -9,7 +9,7 @@ env:
 jobs:
   test:
     env:
-      MONGODB_CLUSTER_ADDRESS: mongodb+srv://ccollinsibe:<password>@cluster0.ruv2guy.mongodb.net/?retryWrites=true&w=majority
+      MONGODB_CLUSTER_ADDRESS: mongodb+srv://ccollinsibe:<ccollinsibe>@cluster0.ruv2guy.mongodb.net/?retryWrites=true&w=majority
       MONGODB_USERNAME: ccollinsibe
       MONGODB_PASSWORD: ccollinsibe
       PORT: 8081
